@@ -18,7 +18,7 @@
     <div class="container">
       <div class="row" style="">
         <div class="mx-auto col-lg-6 col-10">
-          <h1 style="" class="" contenteditable="true">Registrar-se</h1>
+          <h1 style="" class="" contenteditable="true">Registrar</h1>
           <form class="text-left">
             <div class="form-group"> <label for="form16" contenteditable="true">Nome Completo:</label> <input type="text" class="form-control" id="form16"> </div>
             <div class="form-group"> <label for="form17">Email:&nbsp;</label> <input type="text" class="form-control" id="form17" placeholder="exemplo@gmail.com"> </div>
